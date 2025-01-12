@@ -47,7 +47,7 @@ Check out the live demo of the chatbot application here:
 ## 👨‍💻 Developed By
 
 - **Joel Pawar**  
-  A Computer Engineering student with a passion for AI, Web Development, and Building Innovative Solutions.
+ 
 
 ---
 
@@ -83,9 +83,7 @@ To run this application locally, follow the steps below:
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
